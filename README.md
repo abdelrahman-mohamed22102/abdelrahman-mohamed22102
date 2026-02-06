@@ -86,3 +86,7 @@ Artificial Intelligence, Statistics & Probability, Database Systems, Algorithms
 ## 📫 Contact
 - 📧 Email: abdelrahman.mohamed22102@gmail.com  
 - 🔗 LinkedIn: https://linkedin.com/in/abdelrahman-mohamed22102
+- Coursera: https://www.coursera.org/learner/abdelrahman-mohamed22102
+- HackerRank: https://www.hackerrank.com/profile/abdelrahman22102
+- Portfolio: https://v0-abdelrahman-mohamed22102.vercel.app
+- Github: https://github.com/abdelrahman-mohamed22102
