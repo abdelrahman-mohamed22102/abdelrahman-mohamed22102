@@ -1,92 +1,206 @@
 # 👋 Hi, I'm Abdelrahman Mohamed
 
-📍 Cairo, Egypt  
-🎯 Data Analyst | Business Intelligence | Python | SQL | Power BI  
+**Data & Business Intelligence Analyst** passionate about transforming data into actionable business insights through analytics, automation, and AI.
 
-I'm a **Data Analyst** with strong experience in transforming raw data into actionable insights using **Python, SQL, Excel, and Power BI**. I have a solid academic foundation in **Computer Science, Statistics, and Machine Learning**, and hands-on experience delivering analytics solutions that support financial and operational decision-making.
-
----
-
-## 🧠 Education
-**Bachelor of Science in Computer Science**  
-Alexandria University — Alexandria, Egypt  
-📅 09/2020 – 05/2024  
-🎓 GPA: **3.54 / 4.00**
-
-**Relevant Coursework:**  
-Artificial Intelligence, Statistics & Probability, Database Systems, Algorithms
+📍 Cairo, Egypt
 
 ---
 
-## 💼 Experience
-### Data Analyst — Mandatory Military Service  
-**6 October Hotel** — Alexandria, Egypt  
-📅 12/2024 – 12/2025  
+## 🚀 About Me
 
-- **Financial Visualization:** Improved financial decision-making by analyzing and visualizing monthly income trends using Python (Seaborn & Matplotlib), identifying key revenue drivers and operational bottlenecks.
-- **Process Automation:** Designed and deployed a custom **Python + Flask automation tool** to replace manual occupancy and guest-history reporting, significantly reducing report generation time and operational overhead.
+I am a **Computer Science graduate** with hands-on experience in **Data Analytics, Business Intelligence, Project Management, and Process Automation**.
 
----
+My work focuses on solving business problems using **SQL, Python, Power BI, and Excel**, combining technical expertise with business understanding to deliver scalable analytics solutions.
 
-## 📊 Featured Projects
+Throughout my journey, I have worked across business operations, hospitality, education, and PMO environments, where I developed solutions that automate workflows, improve reporting, and support data-driven decision-making.
 
-### 📈 Sales Performance Analysis (Excel)
-📅 11/2025  
-- **Data Modeling:** Processed and analyzed **60K+ records** using a star schema design and targeted feature selection to improve analytical performance.
-- **Customer Segmentation:** Identified that customers aged **50+ contribute 41% of total profitability** through advanced time-based analysis.
-- **Profitability Insights:** Revealed that the **Top 5 products generate 25% of total profit**, enabling optimized inventory and marketing strategies through executive dashboards.
+Currently, I'm seeking opportunities as a **Data Analyst**, **Business Intelligence Analyst**, or **Business Analyst**, where I can transform complex data into meaningful insights.
 
 ---
 
-### 🚴 Adventure Works Orders Analysis (SQL & Power BI)
-📅 10/2025  
-- **Data Architecture:** Transformed raw OLTP tables into a **high-performance Star Schema** with Date and Product hierarchies to enable scalable, multi-level drill-down analysis.
-- **Operational Insights:** Discovered a **68% shift in order volume** and identified **Tires & Tubes as 30% of inventory movement** using order-to-ship cycle analysis and Tree Map visualizations.
+# 💼 Professional Experience
+
+### PMO Specialist
+**Andalusia Business Solutions**
+
+- Contributed to project planning, governance, stakeholder communication, and delivery tracking.
+- Supported AI-driven PMO initiatives through business analysis and technical documentation.
+- Participated in designing business cases, project charters, KPIs, risk management, and solution architecture.
 
 ---
 
-### 🌧️ Rain Prediction in Australia (Python & Machine Learning)
-📅 01/2024  
-- **Predictive Modeling:** Built a **Gradient Boosting Classifier** achieving **86% test accuracy** in rainfall prediction.
-- **Feature Engineering:** Performed large-scale EDA and feature prioritization using Pandas and NumPy to enhance model stability.
-- **Data Visualization:** Identified regional climate drivers and outliers using Seaborn heatmaps to communicate insights clearly to stakeholders.
+### Hotel Receptionist (Mandatory Military Service)
+**Alanfoushi 6 October Hotel**
+
+While serving as a Hotel Receptionist, I identified manual operational bottlenecks and developed automation solutions beyond my primary responsibilities.
+
+**Key Achievements**
+
+- Automated occupancy and guest-history reporting using **Python** and **Flask**, reducing report preparation time by **60%**.
+- Developed reporting tools that eliminated repetitive manual work and improved operational accuracy.
+- Built financial performance visualizations using Python to analyze revenue trends and support management decision-making.
 
 ---
 
-## 🛠️ Technical Skills
+### Branch Manager (Seasonal)
+### Sales Specialist
+**El-Eman Installment Company**
 
-### Programming & Frameworks
-- Python (Pandas, NumPy, Scikit-learn, TensorFlow, Seaborn, Matplotlib, Flask)
-- SQL, DAX, Power Query (M)
+Started as a Sales Specialist and was promoted to Branch Manager.
 
-### Data & Analytics
-- Data Modeling (Star Schema)
-- ETL Processes
-- Data Wrangling & Cleaning
+Responsibilities included:
 
-### Statistics & Analysis
-- Hypothesis Testing
-- Descriptive & Inferential Statistics
-- Regression Analysis
-- A/B Testing
-
-### Data Visualization
-- Power BI (Dataflows, RLS, Paginated Reports, Deployment Pipelines)
-- Excel (Pivot Tables, Power Query)
+- Managing branch operations and supervising daily activities.
+- Monitoring KPIs and operational performance.
+- Managing inventory, accounting, and stock-taking.
+- Automating repetitive operational tasks using Excel.
+- Improving reporting efficiency and supporting business decisions through data.
 
 ---
 
-## 📜 Certifications
-- Machine Learning (ML)
-- Deep Learning (DL)
-- Natural Language Processing (NLP) Specializations
+### Programming Instructor
+**iSchool – DEMI Program**
+
+- Taught programming fundamentals using **Blockly** and **Code.org** to students in Grades 4–6.
+- Delivered the DEMI educational program provided by the Ministry of Communications and Information Technology.
 
 ---
 
-## 📫 Contact
-- 📧 Email: abdelrahman.mohamed22102@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/abdelrahman-mohamed22102
-- Coursera: https://www.coursera.org/learner/abdelrahman-mohamed22102
-- HackerRank: https://www.hackerrank.com/profile/abdelrahman22102
-- Portfolio: https://v0-abdelrahman-mohamed22102.vercel.app
-- Github: https://github.com/abdelrahman-mohamed22102
+# 📊 Featured Projects
+
+## 🤖 AI-Powered PMO Dashboard
+
+Designed an end-to-end AI-enabled PMO solution integrating Power BI, Python, and React to improve portfolio visibility and executive decision-making.
+
+**Highlights**
+
+- Business Case
+- Project Charter
+- KPI Framework
+- AI Status Classification
+- NLP Risk Extraction
+- Project Forecasting
+- Risk Register
+- Technical Architecture
+
+---
+
+## 📈 Sales Performance Analytics
+
+Power BI • SQL • DAX • Power Query
+
+- Designed an executive dashboard analyzing five years of sales data.
+- Implemented dynamic YoY, QoQ, MoM, and WoW analysis.
+- Built RFM customer segmentation.
+- Created Calculation Groups for reusable time intelligence.
+- Developed interactive dashboards with drill-through and dynamic comparisons.
+
+---
+
+## 🚴 Adventure Works Sales Analysis
+
+SQL • Power BI
+
+- Built a Star Schema data model.
+- Performed customer, product, and regional analysis.
+- Developed executive dashboards using DAX and Power BI.
+
+---
+
+## 🌧️ Rain Prediction
+
+Python • Machine Learning
+
+- Built a Gradient Boosting model achieving **86% accuracy**.
+- Performed exploratory data analysis and feature engineering.
+- Visualized climate patterns using Seaborn and Matplotlib.
+
+---
+
+# 🛠 Technical Skills
+
+### Languages
+
+- Python
+- SQL
+- DAX
+- Power Query (M)
+
+### Data Analytics
+
+- Data Cleaning
+- ETL
+- Data Modeling
+- Star Schema
+- Business Intelligence
+- Dashboard Development
+- KPI Design
+
+### Visualization
+
+- Power BI
+- Excel
+- Matplotlib
+- Seaborn
+
+### Machine Learning
+
+- Scikit-learn
+- TensorFlow
+- Predictive Analytics
+- NLP Fundamentals
+
+### Project Management
+
+- PMO
+- Project Planning
+- WBS
+- Risk Management
+- Stakeholder Management
+- Business Case Development
+
+### Tools
+
+- Git
+- GitHub
+- Azure DevOps
+- Flask
+- React
+- SQL Server
+
+---
+
+# 📜 Certifications
+
+- Machine Learning Specialization
+- Deep Learning Specialization
+- Natural Language Processing
+- SQL
+- Power BI
+- Python
+
+---
+
+# 🌐 Connect With Me
+
+💼 **LinkedIn**
+> https://linkedin.com/in/abdelrahman-mohamed22102
+
+🌍 **Portfolio**
+> https://v0-abdelrahman-mohamed22102.vercel.app
+
+💻 **GitHub**
+> https://github.com/abdelrahman-mohamed22102
+
+🏆 **HackerRank**
+> https://www.hackerrank.com/profile/abdelrahman22102
+
+🎓 **Coursera**
+> https://www.coursera.org/learner/abdelrahman-mohamed22102
+
+📧 **Email**
+> abdelrahman.mohamed22102@gmail.com
+
+---
+
+⭐ If you find my projects interesting, feel free to explore my repositories, connect with me on LinkedIn, or reach out for collaboration.
